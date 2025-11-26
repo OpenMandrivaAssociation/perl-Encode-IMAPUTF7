@@ -12,6 +12,7 @@ Group:		Development/Perl
 BuildRequires:	perl
 BuildRequires:	perl(ExtUtils::MakeMaker)
 BuildRequires:	perl(Test::More)
+BuildRequires:	perl(Test::NoWarnings)
 BuildArch:	noarch
 
 %description
